@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9c76503-7861-47f4-bebb-9027aa1e1f67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MotionLayout/app/src/main/res/drawable/ic_twitter_logo_whiteonblue.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MotionLayout/app/src/main/res/xml/activity_main_scene.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MotionLayout/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MotionLayout/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MotionLayout/app/src/main/res/values-night/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MotionLayout/app/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MotionLayout/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MotionLayout/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MotionLayout/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MotionLayout/app/src/main/res/values/themes.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,12 +34,37 @@
       <option name="presentableId" value="Default" />
       <updated>1614987210972</updated>
     </task>
+    <task id="LOCAL-00001" summary=":dolphin: twitter logo motion layout :sparkles:">
+      <created>1614990135010</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614990135010</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="twitter logo motion layout" />
+    <MESSAGE value=":dolphin: twitter logo motion layout :sparkles:" />
+    <option name="LAST_COMMIT_MESSAGE" value=":dolphin: twitter logo motion layout :sparkles:" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="307" y="0" key="CommitChangelistDialog2" timestamp="1614990133489">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="307" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1614990133489" />
+    <state x="151" y="65" key="DiffContextDialog" timestamp="1614989901905">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="151" y="65" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1614989901904" />
     <state x="500" y="108" key="FileChooserDialogImpl" timestamp="1614987219424">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="500" y="108" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1614987219424" />
+    <state x="265" y="80" key="Vcs.Push.Dialog.v2" timestamp="1614990139845">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="265" y="80" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1614990139845" />
   </component>
 </project>
